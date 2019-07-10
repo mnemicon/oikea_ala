@@ -10,8 +10,8 @@
 </head>
 <body>
 <div>
-<h3>Olenko oikealla alalla? <br> - t e k o ä l y s o v e l l u s d e m o </h3>
-<h3> </h3>
+<h1>Olenko oikealla alalla? <br> - t e k o ä l y s o v e l l u s d e m o </h1>
+<h3>( 10.7.2019 )</h3>
 
 <?php // Tämä osa käynnistyy vasta kun luvut on annettu
 if (isset($_POST['nro1']) and isset($_POST['nro2']))
